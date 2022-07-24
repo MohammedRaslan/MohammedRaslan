@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-raslan-109891184/](https://www.linkedin.com/in/mohamed-raslan-109891184/)
 
-- 💬 Ask me about **PHP, Laravel, Yii2, VueJS, MySQL, JQuery**
+- 💬 Ask me about **PHP, Laravel, Yii2, Symfony, VueJS, MySQL, JQuery**
 
 - 📫 How to reach me **mohamedraslan2282@yahoo.com**
 
