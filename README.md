@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed__raslan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed__raslan?logo=twitter&style=for-the-badge" alt="mohamed__raslan" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot, DDD, Advanced Database**
+- 🌱 I’m currently learning **NodeJS, DDD, Advanced Database Topics**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-raslan-109891184/](https://www.linkedin.com/in/mohamed-raslan-109891184/)
 
-- 💬 Ask me about **PHP, Laravel, Yii2, Symfony, VueJS, MySQL, JQuery**
+- 💬 Ask me about **PHP, NodeJS, NestJS, Typescript, Laravel, Yii2, Symfony, VueJS, MySQL, JQuery**
 
 - 📫 How to reach me **mohamedraslan2282@yahoo.com**
 
@@ -39,7 +39,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/mena_en/products/premiere.html?skwcid=AL!3085!3!340845222364!e!!g!!adobe%20premiere&mv=search&sdid=LQLZT7BT&ef_id=CjwKCAjwjtOTBhAvEiwASG4bCOXnVBGO-lF7TyR2N6f6vhkMbdyu6Un18kARjwY_eI8LCYdwcFVQ2RoCkUUQAvD_BwE:G:s&s_kwcid=AL!3085!3!340845222364!e!!g!!adobe%20premiere!1463162857!56526991333&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOXnVBGO-lF7TyR2N6f6vhkMbdyu6Un18kARjwY_eI8LCYdwcFVQ2RoCkUUQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" alt="premier" width="40" height="40"/> </a><a href="https://www.adobe.com/mena_en/products/aftereffects/landpb.html?skwcid=AL!3085!3!340822873869!e!!g!!after%20effect&mv=search&sdid=MYYBRYZH&ef_id=CjwKCAjwjtOTBhAvEiwASG4bCEIBOkAtt8n28DbLkjvd3XHhPhTc4Sttn6ziWbwrTEg26Hx8l8u_ShoCow4QAvD_BwE:G:s&s_kwcid=AL!3085!3!340822873869!e!!g!!after%20effect!1463978829!56421915346&gclid=CjwKCAjwjtOTBhAvEiwASG4bCEIBOkAtt8n28DbLkjvd3XHhPhTc4Sttn6ziWbwrTEg26Hx8l8u_ShoCow4QAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after-effect" width="40" height="40"/> </a> <br>
   
   <h3>Operating Systems:</h3>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://thumb.bibliocad.com/images/content/00020000/2000/22491.jpg" alt="mac" width="40" height="40"/> </a><a href="https://www.microsoft.com/ar-xm/windows?r=1"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1024px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="40" height="40" /> </a><br>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="mac" width="40" height="40"/> </a><a href="https://www.microsoft.com/ar-xm/windows?r=1"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1024px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="40" height="40" /> </a><br>
   
   
   <h3>Other Technologies: </h3>
