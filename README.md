@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed__raslan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed__raslan?logo=twitter&style=for-the-badge" alt="mohamed__raslan" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, DDD, Advanced Database Topics**
+- 🌱 I’m currently learning **System Architecture**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-raslan-109891184/](https://www.linkedin.com/in/mohamed-raslan-109891184/)
 
-- 💬 Ask me about **PHP, NodeJS, NestJS, Typescript, Laravel, Yii2, Symfony, VueJS, MySQL, JQuery**
+- 💬 Ask me about **PHP, NodeJS, NestJS, Typescript, Laravel, Yii2, Symfony, VueJS, MySQL, Azure, Kubernetes**
 
 - 📫 How to reach me **mohamedraslan2282@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamed__raslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed__raslan" height="30" width="40" /></a>
+<a href="https://x.com/mohamed__raslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed__raslan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-raslan-109891184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-raslan-109891184" height="30" width="40" /></a>
 </p>
 
